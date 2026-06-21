@@ -2,8 +2,6 @@
 
 A modern **Student Management System / Learning Management System (LMS)** built using the **MERN Stack (MongoDB, Express, React, Node.js)** with **TypeScript**, designed for scalable academic management and automation.
 
----
-
 ## 🚀 Key Features
 
 * 🔐 Secure Authentication & Authorization (JWT)
