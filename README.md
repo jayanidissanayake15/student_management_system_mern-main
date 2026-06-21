@@ -1,8 +1,3 @@
-මේ README එක already හොඳ level එකක තියෙනවා 👍
-ඒත් මම ඒක **more professional + GitHub ready + clean formatting + better clarity** කරලා upgrade කරලා දෙන්නම්.
-
----
-
 # 🎓 Student Management System (MERN + TypeScript)
 
 A modern **Student Management System / Learning Management System (LMS)** built using the **MERN Stack (MongoDB, Express, React, Node.js)** with **TypeScript**, designed for scalable academic management and automation.
